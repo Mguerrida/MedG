@@ -1,2 +1,93 @@
-2021-11-22 10:56:12,461 - com.ExpertTestBDD.utils.AbstractPage - INFO - ^I navigates to ExpertTest$
-2021-11-22 10:56:15,987 - com.ExpertTestBDD.utils.AbstractPage - INFO - I check the home page$
+2021-11-22 14:34:28,630 - com.ExpertTestBDD.utils.AbstractPage - INFO - ^I navigates to ExpertTest$
+2021-11-22 14:34:31,992 - com.ExpertTestBDD.utils.AbstractPage - INFO - I check the home page$
+2021-11-22 14:34:32,004 - com.ExpertTestBDD.utils.AbstractPage - INFO - Quizz Page opening
+2021-11-22 14:34:33,228 - com.ExpertTestBDD.utils.AbstractPage - INFO - Quizz Page is correctly opned
+2021-11-22 14:34:33,231 - com.ExpertTestBDD.utils.AbstractPage - INFO - Verification of Quizz page Title 
+2021-11-22 14:34:33,280 - com.ExpertTestBDD.utils.AbstractPage - INFO - The title is correct
+2021-11-22 14:34:36,301 - com.ExpertTestBDD.utils.AbstractPage - INFO - ^I navigates to ExpertTest$
+2021-11-22 14:34:39,374 - com.ExpertTestBDD.utils.AbstractPage - INFO - I check the home page$
+2021-11-22 14:34:39,384 - com.ExpertTestBDD.utils.AbstractPage - INFO - Quizz Page opening
+2021-11-22 14:34:40,476 - com.ExpertTestBDD.utils.AbstractPage - INFO - Quizz Page is correctly opned
+2021-11-22 14:34:40,479 - com.ExpertTestBDD.utils.AbstractPage - INFO - Access to Lean Six Segma Exam Page 
+2021-11-22 14:34:41,898 - com.ExpertTestBDD.utils.AbstractPage - INFO - Lean Six Segma Exam Page is opened 
+2021-11-22 14:34:41,900 - com.ExpertTestBDD.utils.AbstractPage - INFO - Verification of the title
+2021-11-22 14:34:41,935 - com.ExpertTestBDD.utils.AbstractPage - INFO - The title is correct
+2021-11-22 14:34:42,031 - com.ExpertTestBDD.utils.AbstractPage - INFO - Scrolling down the page to find Tabulation
+2021-11-22 14:34:42,032 - com.ExpertTestBDD.utils.AbstractPage - INFO - click on yellow Belt Tab 
+2021-11-22 14:34:42,067 - com.ExpertTestBDD.utils.AbstractPage - INFO - Yellow tabulation text  is checked  
+2021-11-22 14:34:42,068 - com.ExpertTestBDD.utils.AbstractPage - INFO - click on Orange Belt Tab 
+2021-11-22 14:34:42,118 - com.ExpertTestBDD.utils.AbstractPage - INFO - Orange Belt Tab is Selected 
+2021-11-22 14:34:42,149 - com.ExpertTestBDD.utils.AbstractPage - INFO - Orange Tabulation Text is Correctly Dispalyed
+2021-11-22 14:34:42,150 - com.ExpertTestBDD.utils.AbstractPage - INFO - click on Green Belt Tab 
+2021-11-22 14:34:42,210 - com.ExpertTestBDD.utils.AbstractPage - INFO - Green Belt Tab is Selected 
+2021-11-22 14:34:42,243 - com.ExpertTestBDD.utils.AbstractPage - INFO - Green Tabulation Text is Correctly Dispalyed
+2021-11-22 14:34:45,165 - com.ExpertTestBDD.utils.AbstractPage - INFO - ^I navigates to ExpertTest$
+2021-11-22 14:34:48,875 - com.ExpertTestBDD.utils.AbstractPage - INFO - I check the home page$
+2021-11-22 14:34:48,895 - com.ExpertTestBDD.utils.AbstractPage - INFO - Quizz Page opening
+2021-11-22 14:34:50,184 - com.ExpertTestBDD.utils.AbstractPage - INFO - Quizz Page is correctly opned
+2021-11-22 14:34:50,186 - com.ExpertTestBDD.utils.AbstractPage - INFO - Navigate to Developpment Exam page
+2021-11-22 14:34:51,517 - com.ExpertTestBDD.utils.AbstractPage - INFO - Devolppement Exam page is correctly opened 
+2021-11-22 14:34:51,520 - com.ExpertTestBDD.utils.AbstractPage - INFO - Verify the Title of Developpement Exam page 
+2021-11-22 14:34:51,531 - com.ExpertTestBDD.utils.AbstractPage - INFO - The title of Page is correct 
+2021-11-22 14:34:51,533 - com.ExpertTestBDD.utils.AbstractPage - INFO - Scrooling The dev Page Down 
+2021-11-22 14:34:51,547 - com.ExpertTestBDD.utils.AbstractPage - INFO - Page is scrolled down
+2021-11-22 14:34:51,581 - com.ExpertTestBDD.utils.AbstractPage - INFO - Android button is displayed
+2021-11-22 14:34:52,034 - com.ExpertTestBDD.utils.AbstractPage - INFO - Android
+2021-11-22 14:34:52,113 - com.ExpertTestBDD.utils.AbstractPage - INFO - Kotlin
+2021-11-22 14:34:52,208 - com.ExpertTestBDD.utils.AbstractPage - INFO - iOS - Swift
+2021-11-22 14:34:52,288 - com.ExpertTestBDD.utils.AbstractPage - INFO - iOS - Objective C
+2021-11-22 14:34:52,366 - com.ExpertTestBDD.utils.AbstractPage - INFO - Android-Ionic
+2021-11-22 14:34:52,429 - com.ExpertTestBDD.utils.AbstractPage - INFO - Swift
+2021-11-22 14:34:52,506 - com.ExpertTestBDD.utils.AbstractPage - INFO - React
+2021-11-22 14:34:52,585 - com.ExpertTestBDD.utils.AbstractPage - INFO - Angular
+2021-11-22 14:34:55,680 - com.ExpertTestBDD.utils.AbstractPage - INFO - ^I navigates to ExpertTest$
+2021-11-22 14:34:58,371 - com.ExpertTestBDD.utils.AbstractPage - INFO - I check the home page$
+2021-11-22 14:34:58,384 - com.ExpertTestBDD.utils.AbstractPage - INFO - Quizz Page opening
+2021-11-22 14:34:59,478 - com.ExpertTestBDD.utils.AbstractPage - INFO - Quizz Page is correctly opned
+2021-11-22 14:34:59,480 - com.ExpertTestBDD.utils.AbstractPage - INFO - Navigate to ISTQB Quizz Exam page
+2021-11-22 14:35:01,071 - com.ExpertTestBDD.utils.AbstractPage - INFO - ISTQB Quizz Exam page is correctly opened 
+2021-11-22 14:35:01,072 - com.ExpertTestBDD.utils.AbstractPage - INFO - Verify the Title of ISTQB QUIZZ Exam page 
+2021-11-22 14:35:01,083 - com.ExpertTestBDD.utils.AbstractPage - INFO - The title of Page is correct 
+2021-11-22 14:35:01,083 - com.ExpertTestBDD.utils.AbstractPage - INFO - Scrooling The dev Page Down 
+2021-11-22 14:35:01,095 - com.ExpertTestBDD.utils.AbstractPage - INFO - Page is scrolled down
+2021-11-22 14:35:01,234 - com.ExpertTestBDD.utils.AbstractPage - INFO - ISTQB Performance
+2021-11-22 14:35:01,314 - com.ExpertTestBDD.utils.AbstractPage - INFO - ISTQB Test d'Acceptance
+2021-11-22 14:35:01,392 - com.ExpertTestBDD.utils.AbstractPage - INFO - ISTQB Automotive
+2021-11-22 14:35:01,469 - com.ExpertTestBDD.utils.AbstractPage - INFO - ISTQB Technical Test Analyste
+2021-11-22 14:35:04,501 - com.ExpertTestBDD.utils.AbstractPage - INFO - ^I navigates to ExpertTest$
+2021-11-22 14:35:08,130 - com.ExpertTestBDD.utils.AbstractPage - INFO - I check the home page$
+2021-11-22 14:35:08,139 - com.ExpertTestBDD.utils.AbstractPage - INFO - Quizz Page opening
+2021-11-22 14:35:09,733 - com.ExpertTestBDD.utils.AbstractPage - INFO - Quizz Page is correctly opned
+2021-11-22 14:35:09,735 - com.ExpertTestBDD.utils.AbstractPage - INFO - Navigate to AGILE SCRUM Quizz Exam page
+2021-11-22 14:35:10,693 - com.ExpertTestBDD.utils.AbstractPage - INFO - AGILE SCRUM Quizz Exam page is correctly opened 
+2021-11-22 14:35:10,694 - com.ExpertTestBDD.utils.AbstractPage - INFO - Verify the Title of AGILE SCRUM QUIZZ Exam page 
+2021-11-22 14:35:10,708 - com.ExpertTestBDD.utils.AbstractPage - INFO - The title of Page is correct 
+2021-11-22 14:35:10,709 - com.ExpertTestBDD.utils.AbstractPage - INFO - Scrooling The dev Page Down 
+2021-11-22 14:35:10,725 - com.ExpertTestBDD.utils.AbstractPage - INFO - Page is scrolled down
+2021-11-22 14:35:10,726 - com.ExpertTestBDD.utils.AbstractPage - INFO - click on Agile Tab button 
+2021-11-22 14:35:10,792 - com.ExpertTestBDD.utils.AbstractPage - INFO - Agile Tab is Selected 
+2021-11-22 14:35:13,898 - com.ExpertTestBDD.utils.AbstractPage - INFO - ^I navigates to ExpertTest$
+2021-11-22 14:35:17,021 - com.ExpertTestBDD.utils.AbstractPage - INFO - I check the home page$
+2021-11-22 14:35:17,028 - com.ExpertTestBDD.utils.AbstractPage - INFO - Quizz Page opening
+2021-11-22 14:35:18,679 - com.ExpertTestBDD.utils.AbstractPage - INFO - Quizz Page is correctly opned
+2021-11-22 14:35:18,683 - com.ExpertTestBDD.utils.AbstractPage - INFO - Navigate to A4Q Foundation Quizz Exam page
+2021-11-22 14:35:19,613 - com.ExpertTestBDD.utils.AbstractPage - INFO - Navigate to A4Q Foundation Quizz Exam page is correctly opened 
+2021-11-22 14:35:19,614 - com.ExpertTestBDD.utils.AbstractPage - INFO - Verify the Title of A4Q Foundation QUIZZ Exam page 
+2021-11-22 14:35:19,622 - com.ExpertTestBDD.utils.AbstractPage - INFO - The title of Page is correct 
+2021-11-22 14:35:19,623 - com.ExpertTestBDD.utils.AbstractPage - INFO - Scrooling The dev Page Down 
+2021-11-22 14:35:19,637 - com.ExpertTestBDD.utils.AbstractPage - INFO - Page is scrolled down
+2021-11-22 14:35:19,638 - com.ExpertTestBDD.utils.AbstractPage - INFO - click on A4Q Design Thinking Foundational Level V 2018  Tab button 
+2021-11-22 14:35:19,689 - com.ExpertTestBDD.utils.AbstractPage - INFO -  A4Q Design Thinking Foundational button is Selected 
+2021-11-22 14:35:19,689 - com.ExpertTestBDD.utils.AbstractPage - INFO - click on A4Q AI and Software Testing Foundation 
+2021-11-22 14:35:19,739 - com.ExpertTestBDD.utils.AbstractPage - INFO -  A4Q AI and Software Testing Foundation is Selected 
+2021-11-22 14:35:22,698 - com.ExpertTestBDD.utils.AbstractPage - INFO - ^I navigates to ExpertTest$
+2021-11-22 14:35:26,192 - com.ExpertTestBDD.utils.AbstractPage - INFO - I check the home page$
+2021-11-22 14:35:29,234 - com.ExpertTestBDD.utils.AbstractPage - INFO - ^I navigates to ExpertTest$
+2021-11-22 14:35:32,360 - com.ExpertTestBDD.utils.AbstractPage - INFO - I check the home page$
+2021-11-22 14:35:34,605 - com.ExpertTestBDD.utils.AbstractPage - INFO - List View is Displayed
+2021-11-22 14:35:34,653 - com.ExpertTestBDD.utils.AbstractPage - INFO - Grid View is Displayed
+2021-11-22 14:35:34,688 - com.ExpertTestBDD.utils.AbstractPage - INFO - List View is Displayed
+2021-11-22 14:35:34,714 - com.ExpertTestBDD.utils.AbstractPage - INFO - Check: List View is Displayed
+2021-11-22 14:35:34,751 - com.ExpertTestBDD.utils.AbstractPage - INFO - Grid View is Displayed
+2021-11-22 14:35:34,777 - com.ExpertTestBDD.utils.AbstractPage - INFO - Check: Grid View is Displayed
+2021-11-22 14:35:35,447 - com.ExpertTestBDD.utils.AbstractPage - INFO - Correct Behavior

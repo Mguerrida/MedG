@@ -16,7 +16,7 @@ import cucumber.api.junit.Cucumber;
 		// glue = {""},
 		plugin = { "pretty", "html:target/cucumber-html-report", "json:json/cucumber.json",
 				"com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/Expertest.html" }, tags = {
-						(" @accueil ") },
+						(" @accueil , @quizzpage , @Eboutqiue") },
 
 		snippets = SnippetType.CAMELCASE, monochrome = true)
 
